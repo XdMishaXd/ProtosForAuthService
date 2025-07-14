@@ -1,4 +1,4 @@
-module protos
+module github.com/XdMishaXd/ProtosForAuthService
 
 go 1.24.4
 
